@@ -31,3 +31,13 @@ body {
     text-wrap: balance;
   }
 }
+
+.main {
+  background-color: red;
+  padding: 10px 0;
+}
+
+/* main {
+  --background #f6f9fc;
+  .padding: 10px 0;
+} */
