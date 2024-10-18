@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "email": "email dev --dir src/app/email"
+    "email": "email dev --dir src/app/emails"
   },
   "dependencies": {
     "@react-email/button": "^0.0.15",
